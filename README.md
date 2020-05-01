@@ -8,7 +8,7 @@ docker ps
 
 docker logs <container id>
 
-# Enter the container
-$ docker exec -it <container id> /bin/bash
+Enter the container
+docker exec -it <container id> /bin/bash
 
 node jserver.js
